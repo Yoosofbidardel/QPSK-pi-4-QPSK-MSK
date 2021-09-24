@@ -13,3 +13,6 @@ string is modulatedand, it will be passed through the channel
  
 # 𝜋/4 QPSK:
 for creating this we used 2 QPSK modulatior with 0 and 45 degree shifts respectivelty, then we combined these in order to have a 𝜋/4 QPSK
+here is the output for different SNRs:
+![image](https://user-images.githubusercontent.com/70627266/134639024-992fc8e9-6dd1-4690-ac32-b4bcc888536b.png)
+
