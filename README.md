@@ -7,5 +7,9 @@ string is modulatedand, it will be passed through the channel
 
 # QPSK in AWGN channel
  we can use  qpsk library in MATLAB to create  +1,-1,+i,-i 
- here is the output:
+ here is the output for different SNRs:
  ![image](https://user-images.githubusercontent.com/70627266/134638112-30ff7070-27f5-4385-bd1d-5cf9f57dc815.png)
+ 
+ 
+# 𝜋/4 QPSK:
+for creating this we used 2 QPSK modulatior with 0 and 45 degree shifts respectivelty, then we combined these in order to have a 𝜋/4 QPSK
